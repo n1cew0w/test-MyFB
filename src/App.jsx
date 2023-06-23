@@ -1,6 +1,6 @@
 import './App.css'
-import bg from './assets/6-d0bbd183d187d188d0b8d185-d181d0bfd0bed181d0bed0b1d0bed0b2-d0b8d181d0bfd180d0b0d0b2d0b8d182d18c-d180d0b0d0b7d0bcd18bd182d18bd0b5-d184-1.jpg'
-import avatar from './assets/photo_2023-06-23_22-13-25.jpg'
+import bg from './assets/bg.jpg'
+import avatar from './assets/avatar.jpg'
 import viber from './assets/viber.png'
 import tg from './assets/telegram.png'
 import inst from './assets/instagram.png'
